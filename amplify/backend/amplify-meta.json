@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifygeotest-dev-bad87-authRole",
+      "UnauthRoleArn": "arn:aws:iam::112097210422:role/amplify-amplifygeotest-dev-bad87-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::112097210422:role/amplify-amplifygeotest-dev-bad87-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-amplifygeotest-dev-bad87-deployment",
+      "UnauthRoleName": "amplify-amplifygeotest-dev-bad87-unauthRole",
+      "StackName": "amplify-amplifygeotest-dev-bad87",
+      "StackId": "arn:aws:cloudformation:ap-south-1:112097210422:stack/amplify-amplifygeotest-dev-bad87/0ab01fd0-ff95-11f0-8e9c-0264006bfe49",
+      "AmplifyAppId": "d17s4yh0o52ii9"
+    }
+  }
+}
